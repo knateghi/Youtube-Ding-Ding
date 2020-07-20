@@ -16,6 +16,7 @@
 		19CE9A8824C2B962007C5F5B /* Constants.swift in Sources */ = {isa = PBXBuildFile; fileRef = 19CE9A8724C2B962007C5F5B /* Constants.swift */; };
 		19CE9A8A24C33F90007C5F5B /* Video.swift in Sources */ = {isa = PBXBuildFile; fileRef = 19CE9A8924C33F90007C5F5B /* Video.swift */; };
 		19CE9A8C24C340AA007C5F5B /* Model.swift in Sources */ = {isa = PBXBuildFile; fileRef = 19CE9A8B24C340AA007C5F5B /* Model.swift */; };
+		19CE9A8E24C57E4D007C5F5B /* ConstantsTemp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 19CE9A8D24C57E4C007C5F5B /* ConstantsTemp.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -30,6 +31,7 @@
 		19CE9A8724C2B962007C5F5B /* Constants.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Constants.swift; sourceTree = "<group>"; };
 		19CE9A8924C33F90007C5F5B /* Video.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Video.swift; sourceTree = "<group>"; };
 		19CE9A8B24C340AA007C5F5B /* Model.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Model.swift; sourceTree = "<group>"; };
+		19CE9A8D24C57E4C007C5F5B /* ConstantsTemp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ConstantsTemp.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -68,6 +70,7 @@
 				19CE9A8924C33F90007C5F5B /* Video.swift */,
 				19CE9A8B24C340AA007C5F5B /* Model.swift */,
 				19CE9A8724C2B962007C5F5B /* Constants.swift */,
+				19CE9A8D24C57E4C007C5F5B /* ConstantsTemp.swift */,
 				19CE9A7924C23D3C007C5F5B /* Main.storyboard */,
 				19CE9A7C24C23D3E007C5F5B /* Assets.xcassets */,
 				19CE9A7E24C23D3E007C5F5B /* LaunchScreen.storyboard */,
@@ -151,6 +154,7 @@
 				19CE9A7424C23D3C007C5F5B /* AppDelegate.swift in Sources */,
 				19CE9A7624C23D3C007C5F5B /* SceneDelegate.swift in Sources */,
 				19CE9A8C24C340AA007C5F5B /* Model.swift in Sources */,
+				19CE9A8E24C57E4D007C5F5B /* ConstantsTemp.swift in Sources */,
 				19CE9A8824C2B962007C5F5B /* Constants.swift in Sources */,
 				19CE9A8A24C33F90007C5F5B /* Video.swift in Sources */,
 			);
